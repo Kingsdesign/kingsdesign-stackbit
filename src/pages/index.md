@@ -19,24 +19,11 @@ banner:
 sections:
 - type: icons
   template: icons
-  title: |-
-    Arcu aliquet vel lobortis ata nisl
-    eget augue amet aliquet nisl cep donec
-  subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
-    \ \nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-    \ "
+  title: About Us here
+  subtitle: Company info
   section_id: one
-  background_style: style1
-  feature_icons:
-  - title: Lorem
-    icon: fa-diamond
-    style: style1
-  - title: Ipsum
-    icon: fa-heart-o
-    style: style2
-  - title: Dolor
-    icon: fa-code
-    style: style3
+  background_style: style2
+  feature_icons: []
   component: Icons
 - type: spotlights
   template: spotlights
